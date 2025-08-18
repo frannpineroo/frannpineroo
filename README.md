@@ -33,6 +33,7 @@ Me especializo en **backend con Python/Django y C#/.NET**, y estoy ampliando mi 
 ## 📚 Formación  
 
 🎓 **Tecnicatura Universitaria en Programación** – En curso  (3° y ultimo año)
+
 📘 **Cursos extra**:  
 - Fundamentos de Python 1 y 2 – Cisco Networking Academy  
 - Python con Cursor
