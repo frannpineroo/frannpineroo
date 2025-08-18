@@ -2,7 +2,7 @@
 
 💻 Desarrollador Backend | Fullstack en formación | Apasionado por Fintech y Web3  
 
-Actualmente estoy estudiando **Tecnicatura Universitaria en Desarrollo de Software** y reforzando mis conocimientos con proyectos personales y en equipo.  
+Actualmente estoy estudiando **Tecnicatura en Desarrollo de Software** y reforzando mis conocimientos con proyectos personales y en equipo.  
 Me especializo en **backend con Python/Django y C#/.NET**, y estoy ampliando mi stack hacia el frontend y blockchain.  
 
 ---
