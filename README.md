@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Francisco Piñero  
 
 💻 Desarrollador Backend | Fullstack en formación | Apasionado por Fintech y Web3  
