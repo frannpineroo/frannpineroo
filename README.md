@@ -25,8 +25,8 @@ Me especializo en **backend con Python/Django y C#/.NET**, y estoy ampliando mi 
 
 ## 📊 Estadísticas de GitHub  
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoPinero&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPinero&layout=compact&theme=radical)  
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frannpineroo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frannpineroo&layout=compact&theme=radical)  
 
 ---
 
