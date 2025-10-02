@@ -21,13 +21,6 @@ Me especializo en **backend con Python/Django y C#/.NET**, y estoy ampliando mi 
 
 ---
 
-## 📊 Estadísticas de GitHub  
-
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frannpineroo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frannpineroo&layout=compact&theme=radical)  
-
----
-
 ## 📚 Formación  
 
 🎓 **Tecnicatura Universitaria en Programación** – En curso  (3° y ultimo año)
