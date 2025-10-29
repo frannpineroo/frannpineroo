@@ -21,22 +21,7 @@ Me especializo en **backend con Python/Django y C#/.NET**, y estoy ampliando mi 
 
 ---
 
-## 📚 Formación  
-
-🎓 **Tecnicatura Universitaria en Programación** – En curso  (3° y ultimo año)
-
-📘 **Cursos extra**:  
-- Fundamentos de Python 1 y 2 – Cisco Networking Academy  
-- Python con Cursor
-- Fullstack Roadmap (React, Node.js, Web3)  
-
----
-
 ## 🌐 Encuéntrame en:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frannpinero/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/frannpinero)   
-
----
-
-✨ Siempre en búsqueda de nuevos retos en **fintech, startups y proyectos de innovación**.
