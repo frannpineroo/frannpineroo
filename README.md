@@ -1,9 +1,9 @@
 # 👋 ¡Hola! Soy Francisco Piñero  
 
-💻 Desarrollador Backend | Fullstack en formación   
+💻 Desarrollador Backend   
 
 Actualmente estoy estudiando **Tecnicatura en Desarrollo de Software** y reforzando mis conocimientos con proyectos personales y en equipo.  
-Me especializo en **backend con Python/Django y C#/.NET**, y estoy ampliando mi stack hacia el frontend y blockchain.  
+Me especializo en **backend con Python y Node.js**, y estoy ampliando mi stack hacia el frontend y blockchain.  
 
 ---
 
