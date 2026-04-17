@@ -8,7 +8,7 @@ I specialize in building backend systems with Node.js, designing REST APIs, and 
 
 ---
 
-## 🚀 Current Focus
+## 🔎​ Current Focus
 
 - Building fullstack apps with React + REST APIs  
 - Learning system design & scalable architectures  
