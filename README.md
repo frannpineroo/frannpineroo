@@ -70,14 +70,14 @@ Backend-focused application for managing workouts and exercise tracking.
 
 ---
 
-### 🔹 Chat App  
-Real-time communication platform for teams.
+### 🔹 Zentry Marketplace  
+Marketplace de propiedades publicado en Vercel
 
-- Backend: Node.js  
-- Features: Messaging system, user interaction  
-- Focus: Real-time logic & backend communication  
+- Stack: Next.js & Supabase
+- Features: Interactive map, publish own propery with pictures, contact via WhatsApp  
+- Focus: Interactive map to watch what property is for sale on the city 
 
-👉 https://github.com/frannpineroo/chat-app  
+👉 https://github.com/frannpineroo/zentry 
 
 --
 
