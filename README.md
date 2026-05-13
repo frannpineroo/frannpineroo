@@ -47,16 +47,16 @@ Grow as a backend engineer in fintech or product-focused companies, contributing
 
 ## 🚀 Featured Projects
 
-### 🔹 Corner App  
-Fullstack system to manage students, attendance, and internal operations for a sports academy.
+### 🔹 FinTrack App  
+Web app for managing shared expenses among groups of friends, family, or partners. It allows you to record expenses, divide them among group members, and keep track of who owes what.
 
-- Backend: Node.js, Express  
+- Backend: Node.js, Express
+- Frontend: Next.js, Tailwind CSS
 - Database: PostgreSQL  
-- Features: CRUD operations, filtering, real-world data modeling  
-- Focus: Business logic & backend structure  
+- Features: CRUD operations, balance of what you owe and what is owed to you., add expenses to the group with automatic or manual splitting. 
+- Focus: Record expenses and divide them among the group members
 
-👉 https://github.com/frannpineroo/corner-app  
-
+👉 https://github.com/frannpineroo/fintrack
 ---
 
 ### 🔹 Gym Platform  
